@@ -1,5 +1,5 @@
 # Textual and Visual Guided Task Adaptation for Source‑free Cross‑Domain Few‑Shot Segmentation
-
+[[`Paper`](https://arxiv.org/abs/2508.05213v1)] accepted for ACMMM'25.
 ## Abstract
 
 Few‑Shot Segmentation (FSS) facilitates the efficient segmentation of novel objects using only a limited number of labeled samples. However, its performance often deteriorates considerably when substantial domain discrepancies exist between training and deployment scenarios. To address this limitation, Cross‑Domain Few‑Shot Segmentation (CD‑FSS) has emerged as a significant research area, aiming to mitigate performance degradation caused by such domain shifts. While prior methods have demonstrated the feasibility of effective CD‑FSS without direct access to source data during testing, their exclusive reliance on a small number of support images for target domain adaptation frequently leads to overfitting and restricts their ability to capture intra‑class appearance variations.
