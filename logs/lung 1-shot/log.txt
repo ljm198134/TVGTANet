@@ -1,0 +1,28 @@
+
+:================================
+|            benchmark: lung                    
+|             datapath: D:\\CDFSSDataSet\\Target domains
+|                nshot: 1                       
+|             adapt_to: first-episode           
+|       postprocessing: off                     
+|              logpath: ./logs                  
+|            verbosity: 0                       
+|             backbone: resnet50                
+|              nworker: 0                       
+|                  bsz: 1                       
+|                 fold: 0                       
+[Epoch: 00] [Batch: 0001/0704] L: 0.00000  Avg L: 0.00000  mIoU: 62.59  |  FB-IoU: 74.66
+[Epoch: 00] [Batch: 0051/0704] L: 0.00000  Avg L: 0.00000  mIoU: 82.24  |  FB-IoU: 87.87
+[Epoch: 00] [Batch: 0101/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.38  |  FB-IoU: 89.43
+[Epoch: 00] [Batch: 0151/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.03  |  FB-IoU: 89.16
+[Epoch: 00] [Batch: 0201/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.51  |  FB-IoU: 89.42
+[Epoch: 00] [Batch: 0251/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.60  |  FB-IoU: 89.54
+[Epoch: 00] [Batch: 0301/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.74  |  FB-IoU: 89.64
+[Epoch: 00] [Batch: 0351/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.80  |  FB-IoU: 89.68
+[Epoch: 00] [Batch: 0401/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.75  |  FB-IoU: 89.64
+[Epoch: 00] [Batch: 0451/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.83  |  FB-IoU: 89.69
+[Epoch: 00] [Batch: 0501/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.78  |  FB-IoU: 89.66
+[Epoch: 00] [Batch: 0551/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.86  |  FB-IoU: 89.72
+[Epoch: 00] [Batch: 0601/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.76  |  FB-IoU: 89.66
+[Epoch: 00] [Batch: 0651/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.84  |  FB-IoU: 89.72
+[Epoch: 00] [Batch: 0701/0704] L: 0.00000  Avg L: 0.00000  mIoU: 84.81  |  FB-IoU: 89.69

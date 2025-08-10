@@ -1,0 +1,65 @@
+
+:================================
+|            benchmark: isic                    
+|             datapath: D:\\CDFSSDataSet\\Target domains
+|                nshot: 5                       
+|             adapt_to: first-episode           
+|       postprocessing: dynamic                 
+|              logpath: ./logs                  
+|            verbosity: 0                       
+|             backbone: resnet50                
+|              nworker: 0                       
+|                  bsz: 1                       
+|                 fold: 0                       
+[Epoch: 00] [Batch: 0001/2594] L: 0.00000  Avg L: 0.00000  mIoU: 27.36  |  FB-IoU: 87.75
+[Epoch: 00] [Batch: 0051/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.27  |  FB-IoU: 68.28
+[Epoch: 00] [Batch: 0101/2594] L: 0.00000  Avg L: 0.00000  mIoU: 54.72  |  FB-IoU: 67.89
+[Epoch: 00] [Batch: 0151/2594] L: 0.00000  Avg L: 0.00000  mIoU: 53.15  |  FB-IoU: 67.60
+[Epoch: 00] [Batch: 0201/2594] L: 0.00000  Avg L: 0.00000  mIoU: 54.01  |  FB-IoU: 68.43
+[Epoch: 00] [Batch: 0251/2594] L: 0.00000  Avg L: 0.00000  mIoU: 55.22  |  FB-IoU: 69.69
+[Epoch: 00] [Batch: 0301/2594] L: 0.00000  Avg L: 0.00000  mIoU: 55.14  |  FB-IoU: 70.07
+[Epoch: 00] [Batch: 0351/2594] L: 0.00000  Avg L: 0.00000  mIoU: 55.12  |  FB-IoU: 69.77
+[Epoch: 00] [Batch: 0401/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.42  |  FB-IoU: 70.55
+[Epoch: 00] [Batch: 0451/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.80  |  FB-IoU: 70.69
+[Epoch: 00] [Batch: 0501/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.65  |  FB-IoU: 70.62
+[Epoch: 00] [Batch: 0551/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.69  |  FB-IoU: 70.69
+[Epoch: 00] [Batch: 0601/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.56  |  FB-IoU: 70.53
+[Epoch: 00] [Batch: 0651/2594] L: 0.00000  Avg L: 0.00000  mIoU: 56.89  |  FB-IoU: 70.78
+[Epoch: 00] [Batch: 0701/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.16  |  FB-IoU: 71.11
+[Epoch: 00] [Batch: 0751/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.21  |  FB-IoU: 71.23
+[Epoch: 00] [Batch: 0801/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.35  |  FB-IoU: 71.41
+[Epoch: 00] [Batch: 0851/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.73  |  FB-IoU: 71.78
+[Epoch: 00] [Batch: 0901/2594] L: 0.00000  Avg L: 0.00000  mIoU: 57.80  |  FB-IoU: 71.88
+[Epoch: 00] [Batch: 0951/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.23  |  FB-IoU: 72.18
+[Epoch: 00] [Batch: 1001/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.40  |  FB-IoU: 72.36
+[Epoch: 00] [Batch: 1051/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.70  |  FB-IoU: 72.49
+[Epoch: 00] [Batch: 1101/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.92  |  FB-IoU: 72.65
+[Epoch: 00] [Batch: 1151/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.85  |  FB-IoU: 72.55
+[Epoch: 00] [Batch: 1201/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.18  |  FB-IoU: 72.78
+[Epoch: 00] [Batch: 1251/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.21  |  FB-IoU: 72.84
+[Epoch: 00] [Batch: 1301/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.94  |  FB-IoU: 72.65
+[Epoch: 00] [Batch: 1351/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.24  |  FB-IoU: 72.83
+[Epoch: 00] [Batch: 1401/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.09  |  FB-IoU: 72.69
+[Epoch: 00] [Batch: 1451/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.26  |  FB-IoU: 72.78
+[Epoch: 00] [Batch: 1501/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.07  |  FB-IoU: 72.64
+[Epoch: 00] [Batch: 1551/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.14  |  FB-IoU: 72.68
+[Epoch: 00] [Batch: 1601/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.36  |  FB-IoU: 72.86
+[Epoch: 00] [Batch: 1651/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.33  |  FB-IoU: 72.82
+[Epoch: 00] [Batch: 1701/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.46  |  FB-IoU: 72.93
+[Epoch: 00] [Batch: 1751/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.42  |  FB-IoU: 72.90
+[Epoch: 00] [Batch: 1801/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.44  |  FB-IoU: 72.90
+[Epoch: 00] [Batch: 1851/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.35  |  FB-IoU: 72.85
+[Epoch: 00] [Batch: 1901/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.22  |  FB-IoU: 72.79
+[Epoch: 00] [Batch: 1951/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.21  |  FB-IoU: 72.84
+[Epoch: 00] [Batch: 2001/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.08  |  FB-IoU: 72.74
+[Epoch: 00] [Batch: 2051/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.96  |  FB-IoU: 72.68
+[Epoch: 00] [Batch: 2101/2594] L: 0.00000  Avg L: 0.00000  mIoU: 59.00  |  FB-IoU: 72.73
+[Epoch: 00] [Batch: 2151/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.86  |  FB-IoU: 72.60
+[Epoch: 00] [Batch: 2201/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.67  |  FB-IoU: 72.43
+[Epoch: 00] [Batch: 2251/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.78  |  FB-IoU: 72.52
+[Epoch: 00] [Batch: 2301/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.64  |  FB-IoU: 72.38
+[Epoch: 00] [Batch: 2351/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.58  |  FB-IoU: 72.38
+[Epoch: 00] [Batch: 2401/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.66  |  FB-IoU: 72.45
+[Epoch: 00] [Batch: 2451/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.80  |  FB-IoU: 72.53
+[Epoch: 00] [Batch: 2501/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.90  |  FB-IoU: 72.58
+[Epoch: 00] [Batch: 2551/2594] L: 0.00000  Avg L: 0.00000  mIoU: 58.94  |  FB-IoU: 72.61
