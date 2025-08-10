@@ -31,3 +31,18 @@ The following datasets are used for evaluation in CD‑FSS:
   * Home: https://github.com/HKUSTCV/FSS-1000  
   * Direct: https://drive.google.com/file/d/16TgqOeI_0P41Eh3jWQlxlRXG9KIqtMgI/view
 # TVGTANet
+
+## 🥰 Acknowledgements
+Our code is built upon the works of [ABCDFSS](https://github.com/Vision-Kek/ABCDFSS), [WeCLIP](https://github.com/zbf1991/WeCLIP), we appreciate the authors for their excellent contributions!
+
+
+## 📝 Citation
+If you use this code for your research or project, please consider citing our paper. Thanks!🥂:
+```
+@article{ACMMM2025TVGTANet,
+  title={Textual and Visual Guided Task Adaptation for Source-Free Cross-Domain Few-Shot Segmentation},
+  author={Jianming Liu, Wenlong Qiu, and Haitao Wei},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia (MM’25)},
+  year={2025}
+}
+```
