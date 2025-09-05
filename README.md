@@ -1,5 +1,5 @@
 # Textual and Visual Guided Task Adaptation for Source‑free Cross‑Domain Few‑Shot Segmentation
-
+[[`Paper`](https://arxiv.org/abs/2508.05213v1)] accepted for ACMMM'25.
 ## Abstract
 
 Few‑Shot Segmentation (FSS) facilitates the efficient segmentation of novel objects using only a limited number of labeled samples. However, its performance often deteriorates considerably when substantial domain discrepancies exist between training and deployment scenarios. To address this limitation, Cross‑Domain Few‑Shot Segmentation (CD‑FSS) has emerged as a significant research area, aiming to mitigate performance degradation caused by such domain shifts. While prior methods have demonstrated the feasibility of effective CD‑FSS without direct access to source data during testing, their exclusive reliance on a small number of support images for target domain adaptation frequently leads to overfitting and restricts their ability to capture intra‑class appearance variations.
@@ -31,3 +31,18 @@ The following datasets are used for evaluation in CD‑FSS:
   * Home: https://github.com/HKUSTCV/FSS-1000  
   * Direct: https://drive.google.com/file/d/16TgqOeI_0P41Eh3jWQlxlRXG9KIqtMgI/view
 # TVGTANet
+
+## 🥰 Acknowledgements
+Our code is built upon the works of [ABCDFSS](https://github.com/Vision-Kek/ABCDFSS), [WeCLIP](https://github.com/zbf1991/WeCLIP), we appreciate the authors for their excellent contributions!
+
+
+## 📝 Citation
+If you use this code for your research or project, please consider citing our paper. Thanks!🥂:
+```
+@article{ACMMM2025TVGTANet,
+  title={Textual and Visual Guided Task Adaptation for Source-Free Cross-Domain Few-Shot Segmentation},
+  author={Jianming Liu, Wenlong Qiu, and Haitao Wei},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia (MM’25)},
+  year={2025}
+}
+```
